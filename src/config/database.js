@@ -4,7 +4,7 @@ module.exports = {
   password: 'docker',
   database: 'testesjest',
   dialect: 'postgres',
-  operatorsAliases: false,
+  // operatorsAliases: false,
   loggin: false,
   define: {
     timestamps: true,
